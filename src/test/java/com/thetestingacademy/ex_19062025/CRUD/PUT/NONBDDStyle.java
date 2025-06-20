@@ -9,8 +9,7 @@ import org.junit.jupiter.api.Test;
 
 public class NONBDDStyle {
     @Test
-    public void test_put_positive_tc(){
-        // POST - Auth - Token
+     public void username(){
         String firstname = "James";
         String lastname = "Brown";
 

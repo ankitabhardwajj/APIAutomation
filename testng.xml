@@ -11,6 +11,22 @@
             </class>
             <class name="com.thetestingacademy.ex_20062025_testngexamples.testNG001">
             </class>
+            <class name="com.thetestingacademy.ex_20062025_testngexamples.testNG002">
+            </class>
+            <class name="com.thetestingacademy.ex_20062025_testngexamples.testNG003">
+            </class>
+            <class name="com.thetestingacademy.ex_20062025_testngexamples.testNG004">
+            </class>
+            <class name="com.thetestingacademy.ex_20062025_testngexamples.testNG005">
+            </class>
+            <class name="com.thetestingacademy.ex_20062025_testngexamples.testNG006">
+            </class>
+            <class name="com.thetestingacademy.ex_20062025_testngexamples.testNG007">
+            </class>
+            <class name="com.thetestingacademy.ex_20062025_testngexamples.testNG008">
+            </class>
+            <class name="com.thetestingacademy.ex_20062025_testngexamples.CRUD.TestCaseIntegration">
+            </class>
         </classes>
     </test>
 </suite>
