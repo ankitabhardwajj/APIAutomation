@@ -17,8 +17,8 @@ public class test002 {
                       .basePath("/booking/1").log().all()
                 .when()
                       .get()
-                .then()
-                      .statusCode(404);
+                .then().log().all()
+                      .statusCode(200);
 
 
     }
