@@ -6,11 +6,6 @@ Rest Assured Advance
 
 
 
-### Allure Report
-<img width="1320" alt="Screenshot 2024-06-25 at 08 38 27"
-src="https://github.com/PramodDutta/ATB6xRestAssuredLearnin/assets/1409610/ecd6aabd-d937-4d0d-b98e-2541d21e5686">
-
-
 
 
 ### Extent Report (4.0.9) Older Version
